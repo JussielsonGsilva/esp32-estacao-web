@@ -1,0 +1,17 @@
+# ===== SEGREDOS: NUNCA enviar para o GitHub =====
+config.py
+**/config.py
+secrets.py
+*.env
+
+# ===== Arquivos do Python que não precisam ir =====
+__pycache__/
+*.pyc
+*.mpy
+
+# ===== Arquivos do sistema e de editores =====
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
